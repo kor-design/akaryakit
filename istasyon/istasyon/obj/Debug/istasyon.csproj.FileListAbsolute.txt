@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\akaryakit\istasyon\istasyon\bin\Debug\istasyon.exe.config
+C:\Users\Windows10\Documents\GitHub\akaryakit\istasyon\istasyon\bin\Debug\istasyon.exe
+C:\Users\Windows10\Documents\GitHub\akaryakit\istasyon\istasyon\bin\Debug\istasyon.pdb
+C:\Users\Windows10\Documents\GitHub\akaryakit\istasyon\istasyon\obj\Debug\istasyon.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\akaryakit\istasyon\istasyon\obj\Debug\istasyon.exe
+C:\Users\Windows10\Documents\GitHub\akaryakit\istasyon\istasyon\obj\Debug\istasyon.pdb
