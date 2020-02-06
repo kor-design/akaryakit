@@ -55,7 +55,7 @@ namespace istasyon
                     goto ALTMENU;
                 }
             }
-            else if (anamenusecim=='2')
+            else if (anamenusecim== '2')
             {
                 Console.Clear();
                 Console.WriteLine("<< Seçiminiz 2 >>");
@@ -121,6 +121,23 @@ namespace istasyon
                     Console.Clear();
                     Console.WriteLine("Hatalı seçim yaptınız.Tekrar deneyiniz");
                     goto ALTMENU;
+                }
+            }
+            else if (anamenusecim == '3')
+            {
+                Console.Clear();
+                Console.WriteLine("<< Seçiminiz 3 >>");
+                Console.WriteLine(">> Akaryakıt satışı yap <<");
+                Console.Write("Dizel (D)");
+                Console.Write(" | Benzin (B)");
+                Console.WriteLine(" | Lpg (L)");
+                Console.WriteLine("Satış yapmak için seçiniz [D-B-L]");
+                akaryakitsatistakip=Convert.ToChar(Console.ReadLine());
+                if (akaryakitsatistakip=='D'|| akaryakitsatistakip == 'd')
+                {
+                    Console.WriteLine("Satılan tutar:")
+                    Console.WriteLine("Fiyat {0} TL", dizel);
+                    Console.WriteLine("Depo {0} Litre",dizeltank);
                 }
             }
         }
