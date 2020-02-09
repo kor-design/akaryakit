@@ -16,7 +16,7 @@ namespace istasyon
         MENU:
             Console.WriteLine("Akaryakıt satış takip");
             Console.WriteLine(".....................");
-            Console.WriteLine("1-Birim fiyat göster");
+            Console.WriteLine("1-Birim fiyat göster");  
             Console.WriteLine("2-Birim fiyatı güncelle");
             Console.WriteLine("3-Akaryakıt satışı yap");
             Console.WriteLine("4-Depo durumunu göster");
