@@ -9,12 +9,10 @@ namespace istasyon
     class Program
     {
         static void Main(string[] args)
-        {
-            //değişken tanımlama    
+        { 
             double dizel = 3.12, benzin = 3.28, lpg = 1.78;
             double dizeltank = 1000, benzintank = 1000, lpgtank = 1000;
             char anamenusecim = '0', altmenusecim = '0', akaryakitguncelle = '0', akaryakitsatistakip = '0';
-        //ana menü olusturma
         MENU:
             Console.WriteLine("Akaryakıt satış takip");
             Console.WriteLine(".....................");
